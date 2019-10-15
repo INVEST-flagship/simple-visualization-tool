@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- Load stylesheets -->
+<link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
+<title>Social Ills</title>
+</head>
+
+<body>
+
+<!-- Page's header container -->
+<div class="mpage_container">
+<h1 class="top_h1">Visualizing the Lorem Ipsum</h1>
+<h2 class="top_h2">From the drop-down menus below, select [the Independent variable] for the y-axis (upper menu) and [the dependent variable] for which you want to view its effects on for the x-axis (lower menu).</h2>
+</div>
+
+
+<!-- Charts area container -->
+<div id="ii_charts" class="ii_charts">
+
+<!-- Left side container -->
+<div id="iileft" class="chart_container">
+<!-- Left upper dropdown box container -->
+<div class="select_cointainer">
+<select id='iiy1' class="select-css">
+<option value='a'>Independent variable a</option>
+<option value='b'>Independent variable b</option>
+</select>
+</div>
+<!-- Left lower dropdown box container -->
+<div class="select_cointainer">
+<select id='iix1' class="select-css">
+<option value='a'>Dependent variable a</option>
+<option value='b'>Dependent variable b</option>
+</select>
+</div>
+<!-- Left chart image container -->
+<div class='image_container'>
+<img id='ii_image1' src='images/a_a.png' alt='scatterplot image'>
+</div>
+</div>
+
+<!-- Right side container -->
+<div id="siright" class="chart_container">
+<!-- Right upper dropdown box container -->
+<div class="select_cointainer">
+<select id='siy2' class="select-css">
+<option value='a'>Independent variable a</option>
+<option value='b' selected='selected'>Independent variable b</option>
+</select>
+</div>
+<!-- Right lower dropdown box container -->
+<div class="select_cointainer">
+<select id='six2' class="select-css">
+<option value='a'>Dependent variable a</option>
+<option value='b'>Dependent variable b</option>
+</select>
+</div>
+<!-- Right chart image container -->
+<div class='image_container'>
+<img id='si_image2' src='images/b_a.png' alt='scatterplot image'>
+</div>
+</div>
+
+<!-- Charts area containers -->
+</div> 
+
+
+</body>
+<!-- Load JavaScripts -->
+<script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+</html> 
