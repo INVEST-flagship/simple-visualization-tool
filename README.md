@@ -24,6 +24,16 @@ Use the same naming scheme as with the images: <independent> part goes to the fi
 - Juho Savela
 - Meri-Tuulia Kaarakainen
 
+## Releases with a DOI
+v1.0 INVEST-flagship/simple-visualization-tool: v1.0
+ DOI: 10.5281/zenodo.3515770
+ 
+<a href="https://zenodo.org/badge/latestdoi/215022468"><img src="https://zenodo.org/badge/215022468.svg" alt="DOI"></a>
+
+
+## Cite as
+Meri-Tuulia Kaarakainen, & juhosavela. (2019, October 22). INVEST-flagship/simple-visualization-tool: v1.0 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3515770
+
 ## License
 GNU Genral Public License
 Version 3
