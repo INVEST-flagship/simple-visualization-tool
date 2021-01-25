@@ -35,5 +35,5 @@ v1.0 INVEST-flagship/simple-visualization-tool: v1.0
 Meri-Tuulia Kaarakainen & Juho Savela (2019, October 22). INVEST-flagship/simple-visualization-tool: v1.0 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3515770
 
 ## License
-GNU Genral Public License
+GNU General Public License
 Version 3
